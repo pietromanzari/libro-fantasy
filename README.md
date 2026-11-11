@@ -6,3 +6,6 @@ di Manzari Pietro
 Ciao!
 
 Sto modificando il file da google! 
+
+
+conclusione completata. 
